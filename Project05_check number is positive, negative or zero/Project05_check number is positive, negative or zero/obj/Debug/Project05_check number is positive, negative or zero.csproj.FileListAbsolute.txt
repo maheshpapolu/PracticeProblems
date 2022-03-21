@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Project05_check number is positive, negative or zero\Project05_check number is positive, negative or zero\bin\Debug\Project05_check number is positive, negative or zero.exe.config
+C:\Users\Dell\source\repos\Project05_check number is positive, negative or zero\Project05_check number is positive, negative or zero\bin\Debug\Project05_check number is positive, negative or zero.exe
+C:\Users\Dell\source\repos\Project05_check number is positive, negative or zero\Project05_check number is positive, negative or zero\bin\Debug\Project05_check number is positive, negative or zero.pdb
+C:\Users\Dell\source\repos\Project05_check number is positive, negative or zero\Project05_check number is positive, negative or zero\obj\Debug\Project05_check number is positive, negative or zero.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Project05_check number is positive, negative or zero\Project05_check number is positive, negative or zero\obj\Debug\Project05_check number is positive, negative or zero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Project05_check number is positive, negative or zero\Project05_check number is positive, negative or zero\obj\Debug\Project05_check number is positive, negative or zero.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Project05_check number is positive, negative or zero\Project05_check number is positive, negative or zero\obj\Debug\Project05_check number is positive, negative or zero.exe
+C:\Users\Dell\source\repos\Project05_check number is positive, negative or zero\Project05_check number is positive, negative or zero\obj\Debug\Project05_check number is positive, negative or zero.pdb

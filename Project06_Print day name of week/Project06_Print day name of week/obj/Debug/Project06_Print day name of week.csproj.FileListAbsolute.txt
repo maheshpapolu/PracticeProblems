@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Project06_Print day name of week\Project06_Print day name of week\bin\Debug\Project06_Print day name of week.exe.config
+C:\Users\Dell\source\repos\Project06_Print day name of week\Project06_Print day name of week\bin\Debug\Project06_Print day name of week.exe
+C:\Users\Dell\source\repos\Project06_Print day name of week\Project06_Print day name of week\bin\Debug\Project06_Print day name of week.pdb
+C:\Users\Dell\source\repos\Project06_Print day name of week\Project06_Print day name of week\obj\Debug\Project06_Print day name of week.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Project06_Print day name of week\Project06_Print day name of week\obj\Debug\Project06_Print day name of week.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Project06_Print day name of week\Project06_Print day name of week\obj\Debug\Project06_Print day name of week.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Project06_Print day name of week\Project06_Print day name of week\obj\Debug\Project06_Print day name of week.exe
+C:\Users\Dell\source\repos\Project06_Print day name of week\Project06_Print day name of week\obj\Debug\Project06_Print day name of week.pdb
