@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Project04_check entered number is odd or even\Project04_check entered number is odd or even\bin\Debug\Project04_check entered number is odd or even.exe.config
+C:\Users\Dell\source\repos\Project04_check entered number is odd or even\Project04_check entered number is odd or even\bin\Debug\Project04_check entered number is odd or even.exe
+C:\Users\Dell\source\repos\Project04_check entered number is odd or even\Project04_check entered number is odd or even\bin\Debug\Project04_check entered number is odd or even.pdb
+C:\Users\Dell\source\repos\Project04_check entered number is odd or even\Project04_check entered number is odd or even\obj\Debug\Project04_check entered number is odd or even.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Project04_check entered number is odd or even\Project04_check entered number is odd or even\obj\Debug\Project04_check entered number is odd or even.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Project04_check entered number is odd or even\Project04_check entered number is odd or even\obj\Debug\Project04_check entered number is odd or even.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Project04_check entered number is odd or even\Project04_check entered number is odd or even\obj\Debug\Project04_check entered number is odd or even.exe
+C:\Users\Dell\source\repos\Project04_check entered number is odd or even\Project04_check entered number is odd or even\obj\Debug\Project04_check entered number is odd or even.pdb
